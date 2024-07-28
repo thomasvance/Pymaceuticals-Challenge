@@ -13,7 +13,7 @@ The executive team has tasked you with generating all of the tables and figures 
 
 
 
-<<<<<<< HEAD
+
 
 * Summary Statistics Dataframe: <br>
  <br>
@@ -65,4 +65,4 @@ The executive team has tasked you with generating all of the tables and figures 
   * There is a positive correlation between mouse "Weight" and the average "Tumor Volume", it is a 0.84. As the mouse "Weight" increases, the average "Tumor Volume" increases too.
 
   * The Bar Graph shows that Capomulin and Ramicane had the most amount of mice tested during the study.
->>>>>>> eee25a90f879ddf5cba57a525f1110e5ff04e54d
+
