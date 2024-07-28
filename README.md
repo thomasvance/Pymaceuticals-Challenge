@@ -13,10 +13,56 @@ The executive team has tasked you with generating all of the tables and figures 
 
 
 
-* Summary Statistics Dataframe
-  
-![meta_results](Images/Summary.PNG) 
+<<<<<<< HEAD
 
-* Bar chart for the drug regimens
+* Summary Statistics Dataframe: <br>
+ <br>
+ 
+ ![Summary](https://github.com/user-attachments/assets/989ba466-eb6d-4a03-aea3-42b6a332448c) <br>
+ <br>
 
-* ![bar_chart](Images/PDBar.PNG) 
+* A Bar Chart displaying the "Timepoint" for all mice tested for each "Drug Regimen" during the course of the study:
+ <br>
+ 
+ ![PyBar](https://github.com/user-attachments/assets/d2dec3e7-1059-4215-a457-9b9cec4e5e11) <br>
+ <br>
+ 
+* Pie Chart showing the distribution of female to male mice in the study:
+ <br>
+ 
+ ![Pyplot](https://github.com/user-attachments/assets/97074fdf-c2aa-4630-9df9-d07b959e977d) <br>
+ <br>
+
+* Box plot of the final "Tumor Volume" for all four regimens:
+ <br>
+
+ ![Outliers](https://github.com/user-attachments/assets/b7e632c5-d7fc-4959-8f2c-f08048b3f7cb) <br>
+ <br>
+
+* Line plot of "Tumor Volume" versus the "Timepoint" for Capomulin treatment of mouse I509:
+ <br>
+
+ ![Line](https://github.com/user-attachments/assets/42f038d4-64be-4399-9523-33f831b8430e) <br>
+
+
+* Scatter plot of "Tumor Volume" versus mouse "Weight" for the Capomulin treatment regimen:
+ <br>
+
+ ![Scatter](https://github.com/user-attachments/assets/e7d4d9db-c8db-4687-aae1-0ec2d1d7a65e) <br>
+
+
+* Line Regression model between mouse "Weight" and the average "Tumor Volume" for the Capomulin treatment plotted on top of the previous scatter plot:
+ <br>
+
+ ![Correlation](https://github.com/user-attachments/assets/b6bf4297-6aa5-4590-8560-998d3b64bef1) <br>
+
+ <br>
+
+# Observations and Insights:
+
+  *Capomulin and Ramicane seems to have a better result in reducing the size compared to the others.
+
+  * There is a positive correlation between mouse "Weight" and the average "Tumor Volume", it is a 0.84. As the mouse "Weight" increases, the average "Tumor Volume" increases too.
+
+  * The Bar Graph shows that Capomulin and Ramicane had the most amount of mice tested during the study.
+>>>>>>> eee25a90f879ddf5cba57a525f1110e5ff04e54d
