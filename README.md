@@ -14,14 +14,14 @@ The executive team has tasked you with generating all of the tables and figures 
 
 
 * Summary Statistics Dataframe:
-   
+   $~~$
 ![Summary](https://github.com/user-attachments/assets/989ba466-eb6d-4a03-aea3-42b6a332448c)
-
+$~~$
 
 
         
 * A Bar Chart displaying the "Timepoint" for all mice tested for each "Drug Regimen" during the course of the study:
-
+$~$
 ![PyBar](https://github.com/user-attachments/assets/7911268f-e001-44d0-8283-3d09d8ea2916)
 
 
