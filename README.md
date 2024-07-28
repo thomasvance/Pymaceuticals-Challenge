@@ -21,7 +21,7 @@ $~~$
 
         
 * A Bar Chart displaying the "Timepoint" for all mice tested for each "Drug Regimen" during the course of the study:
-$~$
+~~
 ![PyBar](https://github.com/user-attachments/assets/7911268f-e001-44d0-8283-3d09d8ea2916)
 
 
