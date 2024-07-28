@@ -60,7 +60,7 @@ The executive team has tasked you with generating all of the tables and figures 
 
 # Observations and Insights:
 
-  *Capomulin and Ramicane seems to have a better result in reducing the size compared to the others.
+  * Capomulin and Ramicane seems to have a better result in reducing the size compared to the others.
 
   * There is a positive correlation between mouse "Weight" and the average "Tumor Volume", it is a 0.84. As the mouse "Weight" increases, the average "Tumor Volume" increases too.
 
