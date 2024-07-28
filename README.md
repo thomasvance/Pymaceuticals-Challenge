@@ -28,32 +28,32 @@ The executive team has tasked you with generating all of the tables and figures 
  <br>
  
 ![Pyplot](https://github.com/user-attachments/assets/4429d64e-40ff-4f2b-b0a8-c3b51fd85d20) <br>
-
+ <br>
 
 * Box plot of the final "Tumor Volume" for all four regimens:
+ <br>
 
-
-![Outliers](https://github.com/user-attachments/assets/b7e632c5-d7fc-4959-8f2c-f08048b3f7cb)
-
+![Outliers](https://github.com/user-attachments/assets/b7e632c5-d7fc-4959-8f2c-f08048b3f7cb) <br>
+ <br>
 
 * Line plot of "Tumor Volume" versus the "Timepoint" for Capomulin treatment of mouse I509:
+ <br>
 
-
-![Line](https://github.com/user-attachments/assets/42f038d4-64be-4399-9523-33f831b8430e)
+![Line](https://github.com/user-attachments/assets/42f038d4-64be-4399-9523-33f831b8430e) <br>
 
 
 * Scatter plot of "Tumor Volume" versus mouse "Weight" for the Capomulin treatment regimen:
+ <br>
 
-
-![Scatter](https://github.com/user-attachments/assets/e7d4d9db-c8db-4687-aae1-0ec2d1d7a65e)
+![Scatter](https://github.com/user-attachments/assets/e7d4d9db-c8db-4687-aae1-0ec2d1d7a65e) <br>
 
 
 * Line Regression model between mouse "Weight" and the average "Tumor Volume" for the Capomulin treatment plotted on top of the previous scatter plot:
+ <br>
 
+![Correlation](https://github.com/user-attachments/assets/b6bf4297-6aa5-4590-8560-998d3b64bef1) <br>
 
-![Correlation](https://github.com/user-attachments/assets/b6bf4297-6aa5-4590-8560-998d3b64bef1)
-
-
+ <br>
 
 # Observations and Insights:
 
