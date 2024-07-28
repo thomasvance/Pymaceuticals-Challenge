@@ -13,10 +13,10 @@ The executive team has tasked you with generating all of the tables and figures 
 
 
 
-* Summary Statistics Dataframe:<br>
-  
+* Summary Statistics Dataframe: <br>
+  <br>
 
- ![Summary](https://github.com/user-attachments/assets/989ba466-eb6d-4a03-aea3-42b6a332448c)"<br>
+ ![Summary](https://github.com/user-attachments/assets/989ba466-eb6d-4a03-aea3-42b6a332448c) <br>
 
 * A Bar Chart displaying the "Timepoint" for all mice tested for each "Drug Regimen" during the course of the study:
 
