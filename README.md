@@ -22,13 +22,13 @@ The executive team has tasked you with generating all of the tables and figures 
 * A Bar Chart displaying the "Timepoint" for all mice tested for each "Drug Regimen" during the course of the study:
  <br>
  
- ![PyBar](https://github.com/user-attachments/assets/7911268f-e001-44d0-8283-3d09d8ea2916) <br>
+ ![PyBar](https://github.com/user-attachments/assets/d2dec3e7-1059-4215-a457-9b9cec4e5e11) <br>
  <br>
  
 * Pie Chart showing the distribution of female to male mice in the study:
  <br>
  
- ![Pyplot](https://github.com/user-attachments/assets/4429d64e-40ff-4f2b-b0a8-c3b51fd85d20) <br>
+ ![Pyplot](https://github.com/user-attachments/assets/97074fdf-c2aa-4630-9df9-d07b959e977d) <br>
  <br>
 
 * Box plot of the final "Tumor Volume" for all four regimens:
