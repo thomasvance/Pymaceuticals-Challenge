@@ -13,13 +13,13 @@ The executive team has tasked you with generating all of the tables and figures 
 
 
 
-* Summary Statistics Dataframe:
+* Summary Statistics Dataframe:<br />
 <br />  
-![Summary](https://github.com/user-attachments/assets/989ba466-eb6d-4a03-aea3-42b6a332448c)
+![Summary](https://github.com/user-attachments/assets/989ba466-eb6d-4a03-aea3-42b6a332448c)<br />
 <br />
-* A Bar Chart displaying the "Timepoint" for all mice tested for each "Drug Regimen" during the course of the study:
+* A Bar Chart displaying the "Timepoint" for all mice tested for each "Drug Regimen" during the course of the study:<br />
 <br />
-![PyBar](https://github.com/user-attachments/assets/7911268f-e001-44d0-8283-3d09d8ea2916)
+![PyBar](https://github.com/user-attachments/assets/7911268f-e001-44d0-8283-3d09d8ea2916)<br />
 
 
 * Pie Chart showing the distribution of female to male mice in the study:
